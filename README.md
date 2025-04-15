@@ -24,10 +24,10 @@ Feel free to browse the solutions and use them for learning and reference. Each 
 
 > ⚠️ **Note:** These solutions are for educational purposes. If you're currently taking part in contests or applying for jobs, make sure you truly understand the solutions before using them.
 
-## 📌 To-Do
-- [ ] Add solution complexity analysis.
-- [ ] Add problem descriptions or links to the original LeetCode problems.
-- [ ] Tag solutions by difficulty (Easy/Medium/Hard).
+## 📌 Resources
+- [csvitool](https://csvistool.com/) Data Structures and Algorithms.
+- [visualGo](https://visualgo.net/en) Data Structures and Algorithms.
+- [LeetCode](https://leetcode.com/problemset/) interview problems.
 
 ## 🤝 Contributing
 Contributions are welcome! If you find an issue or have a better approach to a problem, feel free to open a pull request or submit an issue. Let’s help each other grow!
